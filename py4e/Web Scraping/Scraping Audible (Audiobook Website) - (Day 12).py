@@ -5,6 +5,9 @@ from selenium.webdriver.chrome.options import Options # Headless Mode
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
+# for explicit waits
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 import time 
 
 options = webdriver.ChromeOptions()
@@ -28,9 +31,9 @@ book_title = []
 book_length = []
 curr_page = 1;
 while curr_page <= last_page:
-    time.sleep(2)
-    container = driver.find_element(By.CLASS_NAME,'adbl-impression-container ') # get all audiobooks 
-    products = container.find_elements(By.CLASS_NAME, 'productListItem') # get immediate children which are <li> tags *(list dtype)
+    # time.sleep(2) -> added explicit waits instead
+    container = WebDriverWait(driver,5).until(EC.presence_of_element_located(By.CLASS_NAME,'adbl-impression-container ')) # get all audiobooks 
+    products = WebDriverWait(container,5).until(EC.presence_of_element_located(By.CLASS_NAME,'productListItem')) # get immediate children which are <li> tags *(list dtype)
     # representative attributes found -> runtimeLabel, authorLabel, bc-heading
     # multiple classes -> use .contains()
     for product in products:
