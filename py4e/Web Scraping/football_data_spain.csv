@@ -1,0 +1,541 @@
+date,home_team,score,away_team
+14-08-2022,Almeria,Almeria,Real Madrid
+27-08-2022,Almeria,Almeria,Sevilla
+12-09-2022,Almeria,Almeria,Osasuna
+08-10-2022,Almeria,Almeria,Vallecano
+20-10-2022,Almeria,Almeria,Girona
+29-10-2022,Almeria,Almeria,Celta
+09-11-2022,Almeria,Almeria,Getafe
+08-01-2023,Almeria,Almeria,Sociedad
+15-01-2023,Almeria,Almeria,Ath Madrid
+27-01-2023,Almeria,Almeria,Espanol
+11-02-2023,Almeria,Almeria,Betis
+26-02-2023,Almeria,Almeria,Barcelona
+04-03-2023,Almeria,Almeria,Villarreal
+18-03-2023,Almeria,Almeria,Cadiz
+22-08-2022,Elche,Elche,Almeria
+05-09-2022,Valladolid,Valladolid,Almeria
+17-09-2022,Mallorca,Mallorca,Almeria
+30-09-2022,Ath Bilbao,Ath Bilbao,Almeria
+16-10-2022,Betis,Betis,Almeria
+23-10-2022,Villarreal,Villarreal,Almeria
+05-11-2022,Barcelona,Barcelona,Almeria
+30-12-2022,Cadiz,Cadiz,Almeria
+23-01-2023,Valencia,Valencia,Almeria
+06-02-2023,Vallecano,Vallecano,Almeria
+17-02-2023,Girona,Girona,Almeria
+12-03-2023,Sevilla,Sevilla,Almeria
+02-04-2023,Celta,Celta,Almeria
+15-08-2022,Ath Bilbao,Ath Bilbao,Mallorca
+21-08-2022,Ath Bilbao,Ath Bilbao,Valencia
+04-09-2022,Ath Bilbao,Ath Bilbao,Espanol
+17-09-2022,Ath Bilbao,Ath Bilbao,Vallecano
+30-09-2022,Ath Bilbao,Ath Bilbao,Almeria
+15-10-2022,Ath Bilbao,Ath Bilbao,Ath Madrid
+30-10-2022,Ath Bilbao,Ath Bilbao,Villarreal
+08-11-2022,Ath Bilbao,Ath Bilbao,Valladolid
+09-01-2023,Ath Bilbao,Ath Bilbao,Osasuna
+22-01-2023,Ath Bilbao,Ath Bilbao,Real Madrid
+03-02-2023,Ath Bilbao,Ath Bilbao,Cadiz
+26-02-2023,Ath Bilbao,Ath Bilbao,Girona
+12-03-2023,Ath Bilbao,Ath Bilbao,Barcelona
+01-04-2023,Ath Bilbao,Ath Bilbao,Getafe
+29-08-2022,Cadiz,Cadiz,Ath Bilbao
+11-09-2022,Elche,Elche,Ath Bilbao
+08-10-2022,Sevilla,Sevilla,Ath Bilbao
+18-10-2022,Getafe,Getafe,Ath Bilbao
+23-10-2022,Barcelona,Barcelona,Ath Bilbao
+04-11-2022,Girona,Girona,Ath Bilbao
+29-12-2022,Betis,Betis,Ath Bilbao
+14-01-2023,Sociedad,Sociedad,Ath Bilbao
+29-01-2023,Celta,Celta,Ath Bilbao
+11-02-2023,Valencia,Valencia,Ath Bilbao
+19-02-2023,Ath Madrid,Ath Madrid,Ath Bilbao
+05-03-2023,Vallecano,Vallecano,Ath Bilbao
+17-03-2023,Valladolid,Valladolid,Ath Bilbao
+21-08-2022,Ath Madrid,Ath Madrid,Villarreal
+10-09-2022,Ath Madrid,Ath Madrid,Celta
+18-09-2022,Ath Madrid,Ath Madrid,Real Madrid
+08-10-2022,Ath Madrid,Ath Madrid,Girona
+18-10-2022,Ath Madrid,Ath Madrid,Vallecano
+06-11-2022,Ath Madrid,Ath Madrid,Espanol
+29-12-2022,Ath Madrid,Ath Madrid,Elche
+08-01-2023,Ath Madrid,Ath Madrid,Barcelona
+21-01-2023,Ath Madrid,Ath Madrid,Valladolid
+04-02-2023,Ath Madrid,Ath Madrid,Getafe
+19-02-2023,Ath Madrid,Ath Madrid,Ath Bilbao
+04-03-2023,Ath Madrid,Ath Madrid,Sevilla
+18-03-2023,Ath Madrid,Ath Madrid,Valencia
+02-04-2023,Ath Madrid,Ath Madrid,Betis
+15-08-2022,Getafe,Getafe,Ath Madrid
+29-08-2022,Valencia,Valencia,Ath Madrid
+03-09-2022,Sociedad,Sociedad,Ath Madrid
+01-10-2022,Sevilla,Sevilla,Ath Madrid
+15-10-2022,Ath Bilbao,Ath Bilbao,Ath Madrid
+23-10-2022,Betis,Betis,Ath Madrid
+29-10-2022,Cadiz,Cadiz,Ath Madrid
+09-11-2022,Mallorca,Mallorca,Ath Madrid
+15-01-2023,Almeria,Almeria,Ath Madrid
+29-01-2023,Osasuna,Osasuna,Ath Madrid
+12-02-2023,Celta,Celta,Ath Madrid
+25-02-2023,Real Madrid,Real Madrid,Ath Madrid
+13-03-2023,Girona,Girona,Ath Madrid
+13-08-2022,Barcelona,Barcelona,Vallecano
+28-08-2022,Barcelona,Barcelona,Valladolid
+17-09-2022,Barcelona,Barcelona,Elche
+09-10-2022,Barcelona,Barcelona,Celta
+20-10-2022,Barcelona,Barcelona,Villarreal
+23-10-2022,Barcelona,Barcelona,Ath Bilbao
+05-11-2022,Barcelona,Barcelona,Almeria
+31-12-2022,Barcelona,Barcelona,Espanol
+22-01-2023,Barcelona,Barcelona,Getafe
+05-02-2023,Barcelona,Barcelona,Sevilla
+19-02-2023,Barcelona,Barcelona,Cadiz
+05-03-2023,Barcelona,Barcelona,Valencia
+19-03-2023,Barcelona,Barcelona,Real Madrid
+21-08-2022,Sociedad,Sociedad,Barcelona
+03-09-2022,Sevilla,Sevilla,Barcelona
+10-09-2022,Cadiz,Cadiz,Barcelona
+01-10-2022,Mallorca,Mallorca,Barcelona
+16-10-2022,Real Madrid,Real Madrid,Barcelona
+29-10-2022,Valencia,Valencia,Barcelona
+08-11-2022,Osasuna,Osasuna,Barcelona
+08-01-2023,Ath Madrid,Ath Madrid,Barcelona
+28-01-2023,Girona,Girona,Barcelona
+01-02-2023,Betis,Betis,Barcelona
+12-02-2023,Villarreal,Villarreal,Barcelona
+26-02-2023,Almeria,Almeria,Barcelona
+12-03-2023,Ath Bilbao,Ath Bilbao,Barcelona
+01-04-2023,Elche,Elche,Barcelona
+15-08-2022,Betis,Betis,Elche
+26-08-2022,Betis,Betis,Osasuna
+11-09-2022,Betis,Betis,Villarreal
+18-09-2022,Betis,Betis,Girona
+16-10-2022,Betis,Betis,Almeria
+23-10-2022,Betis,Betis,Ath Madrid
+06-11-2022,Betis,Betis,Sevilla
+29-12-2022,Betis,Betis,Ath Bilbao
+01-02-2023,Betis,Betis,Barcelona
+04-02-2023,Betis,Betis,Celta
+18-02-2023,Betis,Betis,Valladolid
+05-03-2023,Betis,Betis,Real Madrid
+19-03-2023,Betis,Betis,Mallorca
+20-08-2022,Mallorca,Mallorca,Betis
+03-09-2022,Real Madrid,Real Madrid,Betis
+02-10-2022,Celta,Celta,Betis
+09-10-2022,Valladolid,Valladolid,Betis
+19-10-2022,Cadiz,Cadiz,Betis
+30-10-2022,Sociedad,Sociedad,Betis
+10-11-2022,Valencia,Valencia,Betis
+08-01-2023,Vallecano,Vallecano,Betis
+21-01-2023,Espanol,Espanol,Betis
+28-01-2023,Getafe,Getafe,Betis
+11-02-2023,Almeria,Almeria,Betis
+24-02-2023,Elche,Elche,Betis
+12-03-2023,Villarreal,Villarreal,Betis
+02-04-2023,Ath Madrid,Ath Madrid,Betis
+14-08-2022,Cadiz,Cadiz,Sociedad
+29-08-2022,Cadiz,Cadiz,Ath Bilbao
+10-09-2022,Cadiz,Cadiz,Barcelona
+01-10-2022,Cadiz,Cadiz,Villarreal
+09-10-2022,Cadiz,Cadiz,Espanol
+19-10-2022,Cadiz,Cadiz,Betis
+29-10-2022,Cadiz,Cadiz,Ath Madrid
+30-12-2022,Cadiz,Cadiz,Almeria
+16-01-2023,Cadiz,Cadiz,Elche
+28-01-2023,Cadiz,Cadiz,Mallorca
+10-02-2023,Cadiz,Cadiz,Girona
+25-02-2023,Cadiz,Cadiz,Vallecano
+10-03-2023,Cadiz,Cadiz,Getafe
+01-04-2023,Cadiz,Cadiz,Sevilla
+20-08-2022,Osasuna,Osasuna,Cadiz
+02-09-2022,Celta,Celta,Cadiz
+16-09-2022,Valladolid,Valladolid,Cadiz
+15-10-2022,Girona,Girona,Cadiz
+22-10-2022,Vallecano,Vallecano,Cadiz
+05-11-2022,Getafe,Getafe,Cadiz
+10-11-2022,Real Madrid,Real Madrid,Cadiz
+06-01-2023,Valencia,Valencia,Cadiz
+21-01-2023,Sevilla,Sevilla,Cadiz
+03-02-2023,Ath Bilbao,Ath Bilbao,Cadiz
+19-02-2023,Barcelona,Barcelona,Cadiz
+03-03-2023,Sociedad,Sociedad,Cadiz
+18-03-2023,Almeria,Almeria,Cadiz
+13-08-2022,Celta,Celta,Espanol
+20-08-2022,Celta,Celta,Real Madrid
+02-09-2022,Celta,Celta,Cadiz
+02-10-2022,Celta,Celta,Betis
+16-10-2022,Celta,Celta,Sociedad
+24-10-2022,Celta,Celta,Getafe
+05-11-2022,Celta,Celta,Osasuna
+30-12-2022,Celta,Celta,Sevilla
+13-01-2023,Celta,Celta,Villarreal
+29-01-2023,Celta,Celta,Ath Bilbao
+12-02-2023,Celta,Celta,Ath Madrid
+26-02-2023,Celta,Celta,Valladolid
+11-03-2023,Celta,Celta,Vallecano
+02-04-2023,Celta,Celta,Almeria
+26-08-2022,Girona,Girona,Celta
+10-09-2022,Ath Madrid,Ath Madrid,Celta
+17-09-2022,Valencia,Valencia,Celta
+09-10-2022,Barcelona,Barcelona,Celta
+19-10-2022,Valladolid,Valladolid,Celta
+29-10-2022,Almeria,Almeria,Celta
+10-11-2022,Vallecano,Vallecano,Celta
+06-01-2023,Elche,Elche,Celta
+20-01-2023,Mallorca,Mallorca,Celta
+04-02-2023,Betis,Betis,Celta
+18-02-2023,Sociedad,Sociedad,Celta
+06-03-2023,Osasuna,Osasuna,Celta
+18-03-2023,Espanol,Espanol,Celta
+22-08-2022,Elche,Elche,Almeria
+27-08-2022,Elche,Elche,Sociedad
+11-09-2022,Elche,Elche,Ath Bilbao
+10-10-2022,Elche,Elche,Mallorca
+19-10-2022,Elche,Elche,Real Madrid
+31-10-2022,Elche,Elche,Getafe
+08-11-2022,Elche,Elche,Girona
+06-01-2023,Elche,Elche,Celta
+22-01-2023,Elche,Elche,Osasuna
+04-02-2023,Elche,Elche,Villarreal
+19-02-2023,Elche,Elche,Espanol
+24-02-2023,Elche,Elche,Betis
+11-03-2023,Elche,Elche,Valladolid
+01-04-2023,Elche,Elche,Barcelona
+15-08-2022,Betis,Betis,Elche
+04-09-2022,Villarreal,Villarreal,Elche
+17-09-2022,Barcelona,Barcelona,Elche
+03-10-2022,Vallecano,Vallecano,Elche
+15-10-2022,Valencia,Valencia,Elche
+23-10-2022,Espanol,Espanol,Elche
+05-11-2022,Valladolid,Valladolid,Elche
+29-12-2022,Ath Madrid,Ath Madrid,Elche
+16-01-2023,Cadiz,Cadiz,Elche
+28-01-2023,Sevilla,Sevilla,Elche
+15-02-2023,Real Madrid,Real Madrid,Elche
+04-03-2023,Mallorca,Mallorca,Elche
+19-03-2023,Sociedad,Sociedad,Elche
+19-08-2022,Espanol,Espanol,Vallecano
+28-08-2022,Espanol,Espanol,Real Madrid
+10-09-2022,Espanol,Espanol,Sevilla
+02-10-2022,Espanol,Espanol,Valencia
+16-10-2022,Espanol,Espanol,Valladolid
+23-10-2022,Espanol,Espanol,Elche
+09-11-2022,Espanol,Espanol,Villarreal
+07-01-2023,Espanol,Espanol,Girona
+21-01-2023,Espanol,Espanol,Betis
+04-02-2023,Espanol,Espanol,Osasuna
+13-02-2023,Espanol,Espanol,Sociedad
+25-02-2023,Espanol,Espanol,Mallorca
+18-03-2023,Espanol,Espanol,Celta
+13-08-2022,Celta,Celta,Espanol
+04-09-2022,Ath Bilbao,Ath Bilbao,Espanol
+18-09-2022,Sociedad,Sociedad,Espanol
+09-10-2022,Cadiz,Cadiz,Espanol
+20-10-2022,Osasuna,Osasuna,Espanol
+28-10-2022,Mallorca,Mallorca,Espanol
+06-11-2022,Ath Madrid,Ath Madrid,Espanol
+31-12-2022,Barcelona,Barcelona,Espanol
+15-01-2023,Getafe,Getafe,Espanol
+27-01-2023,Almeria,Almeria,Espanol
+19-02-2023,Elche,Elche,Espanol
+05-03-2023,Valladolid,Valladolid,Espanol
+11-03-2023,Real Madrid,Real Madrid,Espanol
+01-04-2023,Girona,Girona,Espanol
+15-08-2022,Getafe,Getafe,Ath Madrid
+28-08-2022,Getafe,Getafe,Villarreal
+11-09-2022,Getafe,Getafe,Sociedad
+01-10-2022,Getafe,Getafe,Valladolid
+08-10-2022,Getafe,Getafe,Real Madrid
+18-10-2022,Getafe,Getafe,Ath Bilbao
+05-11-2022,Getafe,Getafe,Cadiz
+30-12-2022,Getafe,Getafe,Mallorca
+15-01-2023,Getafe,Getafe,Espanol
+28-01-2023,Getafe,Getafe,Betis
+12-02-2023,Getafe,Getafe,Vallecano
+20-02-2023,Getafe,Getafe,Valencia
+04-03-2023,Getafe,Getafe,Girona
+19-03-2023,Getafe,Getafe,Sevilla
+22-08-2022,Girona,Girona,Getafe
+04-09-2022,Valencia,Valencia,Getafe
+18-09-2022,Osasuna,Osasuna,Getafe
+14-10-2022,Vallecano,Vallecano,Getafe
+24-10-2022,Celta,Celta,Getafe
+31-10-2022,Elche,Elche,Getafe
+09-11-2022,Almeria,Almeria,Getafe
+08-01-2023,Sevilla,Sevilla,Getafe
+22-01-2023,Barcelona,Barcelona,Getafe
+04-02-2023,Ath Madrid,Ath Madrid,Getafe
+27-02-2023,Villarreal,Villarreal,Getafe
+10-03-2023,Cadiz,Cadiz,Getafe
+01-04-2023,Ath Bilbao,Ath Bilbao,Getafe
+22-08-2022,Girona,Girona,Getafe
+26-08-2022,Girona,Girona,Celta
+09-09-2022,Girona,Girona,Valladolid
+02-10-2022,Girona,Girona,Sociedad
+15-10-2022,Girona,Girona,Cadiz
+23-10-2022,Girona,Girona,Osasuna
+04-11-2022,Girona,Girona,Ath Bilbao
+29-12-2022,Girona,Girona,Vallecano
+14-01-2023,Girona,Girona,Sevilla
+28-01-2023,Girona,Girona,Barcelona
+05-02-2023,Girona,Girona,Valencia
+17-02-2023,Girona,Girona,Almeria
+13-03-2023,Girona,Girona,Ath Madrid
+01-04-2023,Girona,Girona,Espanol
+14-08-2022,Valencia,Valencia,Girona
+03-09-2022,Mallorca,Mallorca,Girona
+18-09-2022,Betis,Betis,Girona
+08-10-2022,Ath Madrid,Ath Madrid,Girona
+20-10-2022,Almeria,Almeria,Girona
+30-10-2022,Real Madrid,Real Madrid,Girona
+08-11-2022,Elche,Elche,Girona
+07-01-2023,Espanol,Espanol,Girona
+22-01-2023,Villarreal,Villarreal,Girona
+10-02-2023,Cadiz,Cadiz,Girona
+26-02-2023,Ath Bilbao,Ath Bilbao,Girona
+04-03-2023,Getafe,Getafe,Girona
+18-03-2023,Vallecano,Vallecano,Girona
+20-08-2022,Mallorca,Mallorca,Betis
+03-09-2022,Mallorca,Mallorca,Girona
+17-09-2022,Mallorca,Mallorca,Almeria
+01-10-2022,Mallorca,Mallorca,Barcelona
+15-10-2022,Mallorca,Mallorca,Sevilla
+28-10-2022,Mallorca,Mallorca,Espanol
+09-11-2022,Mallorca,Mallorca,Ath Madrid
+07-01-2023,Mallorca,Mallorca,Valladolid
+20-01-2023,Mallorca,Mallorca,Celta
+05-02-2023,Mallorca,Mallorca,Real Madrid
+18-02-2023,Mallorca,Mallorca,Villarreal
+04-03-2023,Mallorca,Mallorca,Elche
+12-03-2023,Mallorca,Mallorca,Sociedad
+31-03-2023,Mallorca,Mallorca,Osasuna
+15-08-2022,Ath Bilbao,Ath Bilbao,Mallorca
+27-08-2022,Vallecano,Vallecano,Mallorca
+11-09-2022,Real Madrid,Real Madrid,Mallorca
+10-10-2022,Elche,Elche,Mallorca
+19-10-2022,Sociedad,Sociedad,Mallorca
+22-10-2022,Valencia,Valencia,Mallorca
+06-11-2022,Villarreal,Villarreal,Mallorca
+30-12-2022,Getafe,Getafe,Mallorca
+14-01-2023,Osasuna,Osasuna,Mallorca
+28-01-2023,Cadiz,Cadiz,Mallorca
+11-02-2023,Sevilla,Sevilla,Mallorca
+25-02-2023,Espanol,Espanol,Mallorca
+19-03-2023,Betis,Betis,Mallorca
+12-08-2022,Osasuna,Osasuna,Sevilla
+20-08-2022,Osasuna,Osasuna,Cadiz
+04-09-2022,Osasuna,Osasuna,Vallecano
+18-09-2022,Osasuna,Osasuna,Getafe
+07-10-2022,Osasuna,Osasuna,Valencia
+20-10-2022,Osasuna,Osasuna,Espanol
+30-10-2022,Osasuna,Osasuna,Valladolid
+08-11-2022,Osasuna,Osasuna,Barcelona
+14-01-2023,Osasuna,Osasuna,Mallorca
+29-01-2023,Osasuna,Osasuna,Ath Madrid
+18-02-2023,Osasuna,Osasuna,Real Madrid
+06-03-2023,Osasuna,Osasuna,Celta
+19-03-2023,Osasuna,Osasuna,Villarreal
+26-08-2022,Betis,Betis,Osasuna
+12-09-2022,Almeria,Almeria,Osasuna
+02-10-2022,Real Madrid,Real Madrid,Osasuna
+17-10-2022,Villarreal,Villarreal,Osasuna
+23-10-2022,Girona,Girona,Osasuna
+05-11-2022,Celta,Celta,Osasuna
+31-12-2022,Sociedad,Sociedad,Osasuna
+09-01-2023,Ath Bilbao,Ath Bilbao,Osasuna
+22-01-2023,Elche,Elche,Osasuna
+04-02-2023,Espanol,Espanol,Osasuna
+12-02-2023,Valladolid,Valladolid,Osasuna
+26-02-2023,Sevilla,Sevilla,Osasuna
+11-03-2023,Valencia,Valencia,Osasuna
+31-03-2023,Mallorca,Mallorca,Osasuna
+03-09-2022,Real Madrid,Real Madrid,Betis
+11-09-2022,Real Madrid,Real Madrid,Mallorca
+02-10-2022,Real Madrid,Real Madrid,Osasuna
+16-10-2022,Real Madrid,Real Madrid,Barcelona
+22-10-2022,Real Madrid,Real Madrid,Sevilla
+30-10-2022,Real Madrid,Real Madrid,Girona
+10-11-2022,Real Madrid,Real Madrid,Cadiz
+29-01-2023,Real Madrid,Real Madrid,Sociedad
+02-02-2023,Real Madrid,Real Madrid,Valencia
+15-02-2023,Real Madrid,Real Madrid,Elche
+25-02-2023,Real Madrid,Real Madrid,Ath Madrid
+11-03-2023,Real Madrid,Real Madrid,Espanol
+02-04-2023,Real Madrid,Real Madrid,Valladolid
+14-08-2022,Almeria,Almeria,Real Madrid
+20-08-2022,Celta,Celta,Real Madrid
+28-08-2022,Espanol,Espanol,Real Madrid
+18-09-2022,Ath Madrid,Ath Madrid,Real Madrid
+08-10-2022,Getafe,Getafe,Real Madrid
+19-10-2022,Elche,Elche,Real Madrid
+07-11-2022,Vallecano,Vallecano,Real Madrid
+30-12-2022,Valladolid,Valladolid,Real Madrid
+07-01-2023,Villarreal,Villarreal,Real Madrid
+22-01-2023,Ath Bilbao,Ath Bilbao,Real Madrid
+05-02-2023,Mallorca,Mallorca,Real Madrid
+18-02-2023,Osasuna,Osasuna,Real Madrid
+05-03-2023,Betis,Betis,Real Madrid
+19-03-2023,Barcelona,Barcelona,Real Madrid
+19-08-2022,Sevilla,Sevilla,Valladolid
+03-09-2022,Sevilla,Sevilla,Barcelona
+01-10-2022,Sevilla,Sevilla,Ath Madrid
+08-10-2022,Sevilla,Sevilla,Ath Bilbao
+18-10-2022,Sevilla,Sevilla,Valencia
+29-10-2022,Sevilla,Sevilla,Vallecano
+09-11-2022,Sevilla,Sevilla,Sociedad
+08-01-2023,Sevilla,Sevilla,Getafe
+21-01-2023,Sevilla,Sevilla,Cadiz
+28-01-2023,Sevilla,Sevilla,Elche
+11-02-2023,Sevilla,Sevilla,Mallorca
+26-02-2023,Sevilla,Sevilla,Osasuna
+12-03-2023,Sevilla,Sevilla,Almeria
+12-08-2022,Osasuna,Osasuna,Sevilla
+27-08-2022,Almeria,Almeria,Sevilla
+10-09-2022,Espanol,Espanol,Sevilla
+18-09-2022,Villarreal,Villarreal,Sevilla
+15-10-2022,Mallorca,Mallorca,Sevilla
+22-10-2022,Real Madrid,Real Madrid,Sevilla
+06-11-2022,Betis,Betis,Sevilla
+30-12-2022,Celta,Celta,Sevilla
+14-01-2023,Girona,Girona,Sevilla
+05-02-2023,Barcelona,Barcelona,Sevilla
+19-02-2023,Vallecano,Vallecano,Sevilla
+04-03-2023,Ath Madrid,Ath Madrid,Sevilla
+19-03-2023,Getafe,Getafe,Sevilla
+01-04-2023,Cadiz,Cadiz,Sevilla
+21-08-2022,Sociedad,Sociedad,Barcelona
+03-09-2022,Sociedad,Sociedad,Ath Madrid
+18-09-2022,Sociedad,Sociedad,Espanol
+09-10-2022,Sociedad,Sociedad,Villarreal
+19-10-2022,Sociedad,Sociedad,Mallorca
+30-10-2022,Sociedad,Sociedad,Betis
+06-11-2022,Sociedad,Sociedad,Valencia
+31-12-2022,Sociedad,Sociedad,Osasuna
+14-01-2023,Sociedad,Sociedad,Ath Bilbao
+05-02-2023,Sociedad,Sociedad,Valladolid
+18-02-2023,Sociedad,Sociedad,Celta
+03-03-2023,Sociedad,Sociedad,Cadiz
+19-03-2023,Sociedad,Sociedad,Elche
+14-08-2022,Cadiz,Cadiz,Sociedad
+27-08-2022,Elche,Elche,Sociedad
+11-09-2022,Getafe,Getafe,Sociedad
+02-10-2022,Girona,Girona,Sociedad
+16-10-2022,Celta,Celta,Sociedad
+22-10-2022,Valladolid,Valladolid,Sociedad
+09-11-2022,Sevilla,Sevilla,Sociedad
+08-01-2023,Almeria,Almeria,Sociedad
+21-01-2023,Vallecano,Vallecano,Sociedad
+29-01-2023,Real Madrid,Real Madrid,Sociedad
+13-02-2023,Espanol,Espanol,Sociedad
+25-02-2023,Valencia,Valencia,Sociedad
+12-03-2023,Mallorca,Mallorca,Sociedad
+02-04-2023,Villarreal,Villarreal,Sociedad
+14-08-2022,Valencia,Valencia,Girona
+29-08-2022,Valencia,Valencia,Ath Madrid
+04-09-2022,Valencia,Valencia,Getafe
+17-09-2022,Valencia,Valencia,Celta
+15-10-2022,Valencia,Valencia,Elche
+22-10-2022,Valencia,Valencia,Mallorca
+29-10-2022,Valencia,Valencia,Barcelona
+10-11-2022,Valencia,Valencia,Betis
+06-01-2023,Valencia,Valencia,Cadiz
+23-01-2023,Valencia,Valencia,Almeria
+11-02-2023,Valencia,Valencia,Ath Bilbao
+25-02-2023,Valencia,Valencia,Sociedad
+11-03-2023,Valencia,Valencia,Osasuna
+03-04-2023,Valencia,Valencia,Vallecano
+21-08-2022,Ath Bilbao,Ath Bilbao,Valencia
+10-09-2022,Vallecano,Vallecano,Valencia
+02-10-2022,Espanol,Espanol,Valencia
+07-10-2022,Osasuna,Osasuna,Valencia
+18-10-2022,Sevilla,Sevilla,Valencia
+06-11-2022,Sociedad,Sociedad,Valencia
+31-12-2022,Villarreal,Villarreal,Valencia
+29-01-2023,Valladolid,Valladolid,Valencia
+02-02-2023,Real Madrid,Real Madrid,Valencia
+05-02-2023,Girona,Girona,Valencia
+20-02-2023,Getafe,Getafe,Valencia
+05-03-2023,Barcelona,Barcelona,Valencia
+18-03-2023,Ath Madrid,Ath Madrid,Valencia
+13-08-2022,Valladolid,Valladolid,Villarreal
+05-09-2022,Valladolid,Valladolid,Almeria
+16-09-2022,Valladolid,Valladolid,Cadiz
+09-10-2022,Valladolid,Valladolid,Betis
+19-10-2022,Valladolid,Valladolid,Celta
+22-10-2022,Valladolid,Valladolid,Sociedad
+05-11-2022,Valladolid,Valladolid,Elche
+30-12-2022,Valladolid,Valladolid,Real Madrid
+14-01-2023,Valladolid,Valladolid,Vallecano
+29-01-2023,Valladolid,Valladolid,Valencia
+12-02-2023,Valladolid,Valladolid,Osasuna
+05-03-2023,Valladolid,Valladolid,Espanol
+17-03-2023,Valladolid,Valladolid,Ath Bilbao
+19-08-2022,Sevilla,Sevilla,Valladolid
+28-08-2022,Barcelona,Barcelona,Valladolid
+09-09-2022,Girona,Girona,Valladolid
+01-10-2022,Getafe,Getafe,Valladolid
+16-10-2022,Espanol,Espanol,Valladolid
+30-10-2022,Osasuna,Osasuna,Valladolid
+08-11-2022,Ath Bilbao,Ath Bilbao,Valladolid
+07-01-2023,Mallorca,Mallorca,Valladolid
+21-01-2023,Ath Madrid,Ath Madrid,Valladolid
+05-02-2023,Sociedad,Sociedad,Valladolid
+18-02-2023,Betis,Betis,Valladolid
+26-02-2023,Celta,Celta,Valladolid
+11-03-2023,Elche,Elche,Valladolid
+02-04-2023,Real Madrid,Real Madrid,Valladolid
+27-08-2022,Vallecano,Vallecano,Mallorca
+10-09-2022,Vallecano,Vallecano,Valencia
+03-10-2022,Vallecano,Vallecano,Elche
+14-10-2022,Vallecano,Vallecano,Getafe
+22-10-2022,Vallecano,Vallecano,Cadiz
+07-11-2022,Vallecano,Vallecano,Real Madrid
+10-11-2022,Vallecano,Vallecano,Celta
+08-01-2023,Vallecano,Vallecano,Betis
+21-01-2023,Vallecano,Vallecano,Sociedad
+06-02-2023,Vallecano,Vallecano,Almeria
+19-02-2023,Vallecano,Vallecano,Sevilla
+05-03-2023,Vallecano,Vallecano,Ath Bilbao
+18-03-2023,Vallecano,Vallecano,Girona
+13-08-2022,Barcelona,Barcelona,Vallecano
+19-08-2022,Espanol,Espanol,Vallecano
+04-09-2022,Osasuna,Osasuna,Vallecano
+17-09-2022,Ath Bilbao,Ath Bilbao,Vallecano
+08-10-2022,Almeria,Almeria,Vallecano
+18-10-2022,Ath Madrid,Ath Madrid,Vallecano
+29-10-2022,Sevilla,Sevilla,Vallecano
+29-12-2022,Girona,Girona,Vallecano
+14-01-2023,Valladolid,Valladolid,Vallecano
+30-01-2023,Villarreal,Villarreal,Vallecano
+12-02-2023,Getafe,Getafe,Vallecano
+25-02-2023,Cadiz,Cadiz,Vallecano
+11-03-2023,Celta,Celta,Vallecano
+03-04-2023,Valencia,Valencia,Vallecano
+04-09-2022,Villarreal,Villarreal,Elche
+18-09-2022,Villarreal,Villarreal,Sevilla
+17-10-2022,Villarreal,Villarreal,Osasuna
+23-10-2022,Villarreal,Villarreal,Almeria
+06-11-2022,Villarreal,Villarreal,Mallorca
+31-12-2022,Villarreal,Villarreal,Valencia
+07-01-2023,Villarreal,Villarreal,Real Madrid
+22-01-2023,Villarreal,Villarreal,Girona
+30-01-2023,Villarreal,Villarreal,Vallecano
+12-02-2023,Villarreal,Villarreal,Barcelona
+27-02-2023,Villarreal,Villarreal,Getafe
+12-03-2023,Villarreal,Villarreal,Betis
+02-04-2023,Villarreal,Villarreal,Sociedad
+13-08-2022,Valladolid,Valladolid,Villarreal
+21-08-2022,Ath Madrid,Ath Madrid,Villarreal
+28-08-2022,Getafe,Getafe,Villarreal
+11-09-2022,Betis,Betis,Villarreal
+01-10-2022,Cadiz,Cadiz,Villarreal
+09-10-2022,Sociedad,Sociedad,Villarreal
+20-10-2022,Barcelona,Barcelona,Villarreal
+30-10-2022,Ath Bilbao,Ath Bilbao,Villarreal
+09-11-2022,Espanol,Espanol,Villarreal
+13-01-2023,Celta,Celta,Villarreal
+04-02-2023,Elche,Elche,Villarreal
+18-02-2023,Mallorca,Mallorca,Villarreal
+04-03-2023,Almeria,Almeria,Villarreal
+19-03-2023,Osasuna,Osasuna,Villarreal
