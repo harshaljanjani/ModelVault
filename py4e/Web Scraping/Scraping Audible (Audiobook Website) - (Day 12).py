@@ -18,23 +18,37 @@ driver = webdriver.Chrome(path,options=options,service=Service(ChromeDriverManag
 driver.get(website)
 driver.maximize_window()
 
+# handling pagination
+pagination = driver.find_element(By.XPATH,"//ul[contains(@class,'pagingElement')]")
+pages = pagination.find_elements(By.TAG_NAME,'li')
+last_page = 10 # FOR ALL PAGES: int(pages[-2].text) # just before the 'right arrow' # value: 60; for demonstrative purposes, only scraping the first 10 pages
 
-container = driver.find_element(By.CLASS_NAME,'adbl-impression-container ') # get all audiobooks 
-products = container.find_elements(By.CLASS_NAME, 'productListItem') # get immediate children which are <li> tags *(list dtype)
-# representative attributes -> runtimeLabel, authorLabel
-# multiple classes -> use .contains()
 book_author = []
 book_title = []
 book_length = []
-for product in products:
-    title = product.find_element(By.XPATH,".//h3[contains(@class,'bc-heading')]").text
-    author = product.find_element(By.XPATH,".//li[contains(@class,'authorLabel')]").text
-    runtime = product.find_element(By.XPATH,".//li[contains(@class,'runtimeLabel')]").text
-    book_title.append(title);
-    book_author.append(author);
-    book_length.append(runtime);
+curr_page = 1;
+while curr_page <= last_page:
+    time.sleep(2)
+    container = driver.find_element(By.CLASS_NAME,'adbl-impression-container ') # get all audiobooks 
+    products = container.find_elements(By.CLASS_NAME, 'productListItem') # get immediate children which are <li> tags *(list dtype)
+    # representative attributes found -> runtimeLabel, authorLabel, bc-heading
+    # multiple classes -> use .contains()
+    for product in products:
+        title = product.find_element(By.XPATH,".//h3[contains(@class,'bc-heading')]").text
+        author = product.find_element(By.XPATH,".//li[contains(@class,'authorLabel')]").text
+        runtime = product.find_element(By.XPATH,".//li[contains(@class,'runtimeLabel')]").text
+        book_title.append(title);
+        book_author.append(author);
+        book_length.append(runtime);
+    # navigate to next page
+    curr_page += 1
+    try:
+        next_page = driver.find_element(By.XPATH,"//span[contains(@class,'nextButton')]")
+        next_page.click()
+    except:
+        pass
 
 driver.quit()
 df = pd.DataFrame({"Book Title":book_title,"Book Author":book_author,"Book Runtime":book_length})
-df.to_csv('py4e/Web Scraping/audible_books_data_headless.csv', index=False)
+df.to_csv('py4e/Web Scraping/audible_books_with_pagination.csv', index=False)
 print(df)
