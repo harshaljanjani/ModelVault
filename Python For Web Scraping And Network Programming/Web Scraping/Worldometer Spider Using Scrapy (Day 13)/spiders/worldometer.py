@@ -10,10 +10,19 @@ class WorldometerSpider(scrapy.Spider):
 
     def parse(self, response):
         title = response.xpath('//h1/text()').get()
-        countries = response.xpath('//td/a/text()').getall()
+        countries = response.xpath('//td/a/').getall()
 
-        # return data extracted
-        yield {
-            'titles': title,
-            'countries': countries,
-        }
+        for country in countries:
+            country_name = country.xpath(".//text()").get()
+            link = country.xpath(".//@href").get()
+            # Return data extracted at each iteration
+            # If we were to yield "scrapy.Request(url=link)", we'd not be able to visit the scraped link as it is, since it's in relative form.
+            # Obselete way of concatenation: absolute_url = f'https://www.worldometers.info/{link}'
+            absolute_url = response.urljoin(link) 
+            yield {
+                'country_names': country_name,
+                'links': absolute_url, # Convert relative links to absolute links
+            }
+            # Alternative Syntax:
+            # scrapy.Request(url=absolute_url) -> 200 OK response
+            # response.follow(url=link) -> 200 OK response
