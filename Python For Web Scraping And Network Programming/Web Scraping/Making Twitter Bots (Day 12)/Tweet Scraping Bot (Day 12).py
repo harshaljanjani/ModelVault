@@ -14,7 +14,6 @@ driver = webdriver.Chrome(path,options=options,service=Service(ChromeDriverManag
 driver.get(website)
 driver.maximize_window()
 
-
 def get_tweet(element):
     """This function scrapes data of tweets. It returns a list with 2 elements; username and text""" # Create docstring's for any functions (self-reminder)
     try:
