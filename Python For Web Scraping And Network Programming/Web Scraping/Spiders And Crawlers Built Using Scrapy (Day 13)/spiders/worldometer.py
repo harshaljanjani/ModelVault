@@ -5,6 +5,7 @@
 import scrapy
 class WorldometerSpider(scrapy.Spider):
     name = "worldometer"
+    # Target Website
     allowed_domains = ["www.worldometers.info"]
     start_urls = ["https://www.worldometers.info/world-population/population-by-country/"]
  

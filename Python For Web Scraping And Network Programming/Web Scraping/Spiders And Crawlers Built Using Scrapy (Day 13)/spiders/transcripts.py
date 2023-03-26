@@ -9,6 +9,7 @@ from scrapy.spiders import CrawlSpider, Rule
 
 class TranscriptsSpider(CrawlSpider):
     name = "transcripts"
+    # Target Website
     allowed_domains = ["subslikescript.com"]  
     # Setting a user-agent variable
     start_urls = ['https://subslikescript.com/movies_letter-X']  # Let's test scraping all the pages for the X letter
