@@ -1,5 +1,5 @@
 # Scrapy Spider For Retrieving World Population Data
-# Instructions to use: 1) Create an Anaconda v-env
+# Instructions To Use: 1) Create an Anaconda v-env
 # 2) Install Scrapy and its dependencies
 # 3) Use the spider to retrieve the data from the website
 import scrapy
