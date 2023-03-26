@@ -7,6 +7,10 @@ class WorldometerSpider(scrapy.Spider):
     name = "worldometer"
     allowed_domains = ["www.worldometers.info"]
     start_urls = ["https://www.worldometers.info/world-population/population-by-country/"]
+ 
+    # Crawling responsibly (Default user-agent: "Scrapy/2.8.0 (+https://scrapy.org)")
+    def start_requests(self):
+        yield scrapy.Request(url="https://www.worldometers.info/world-population/population-by-country/", callback=self.parse, headers={'User-Agent':"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"})
 
     def parse(self, response):
         title = response.xpath('//h1/text()').get()
@@ -20,7 +24,8 @@ class WorldometerSpider(scrapy.Spider):
             # If we were to yield "scrapy.Request(url=link)", we'd not be able to visit the scraped link as it is, since it's in relative form.
             # Obselete way of concatenation: absolute_url = f'https://www.worldometers.info/{link}'
             # absolute_url = response.urljoin(link) 
-            yield response.follow(url=link, callback=self.parse_country, meta={'country':country_name}) # callback function is called everytime a new link is visited (data is scraped using the function)
+            yield response.follow(url=link, callback=self.parse_country, meta={'country':country_name}, header={'User-Agent':"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36"}) # Callback function is called everytime a new link is visited (data is scraped using the function)
+
     def parse_country(self,response):
         country = response.request.meta['country']
         rows = response.xpath("(//table[contains(@class,'table')])[1]/tbody/tr") # list
@@ -30,7 +35,9 @@ class WorldometerSpider(scrapy.Spider):
             yield{
                 "country":country,
                 "year": year,
-                "population": population
+                "population": population,
+                'user-agent': response.request.headers['User-Agent']
+                # Double-check
             }
             # Alternative Syntax:
             # scrapy.Request(url=absolute_url) -> 200 OK response
