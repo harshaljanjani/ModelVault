@@ -25,9 +25,11 @@ class TranscriptsSpider(CrawlSpider):
         # Getting the article box that contains the data we want (title, plot, etc)
         article = response.xpath("//article[@class='main-article']")
         # Extract the data we want and then yield it
+        transcript_list = article.xpath("./div[@class='full-script']/text()").getall()
+        transcript_string = ' '.join(transcript_list)
         yield{ 
             'title': article.xpath('./h1/text()').get(),
             'plot': article.xpath('./p/text()').get(),
-            'transcript': article.xpath('./div[@class="full-script"]/text()').getall(),
+            'transcript': transcript_string, # Use this format for SQLite3, however any of the two (transcript_string/transcript_list) can be used for MongoDB
             'url': response.url,
         }

@@ -63,7 +63,9 @@ ROBOTSTXT_OBEY = True
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
-   "spider_tutorial.pipelines.MongoDBPipeline": 300,
+    # Lower number has a higher priority: SQLite3Pipeline is executed first
+    "spider_tutorial.pipelines.MongoDBPipeline": 300,
+    "spider_tutorial.pipelines.SQLite3Pipeline": 200
 }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
