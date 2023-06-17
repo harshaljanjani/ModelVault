@@ -24,7 +24,7 @@
 
 [College Students Data Analysis Using K Means Clustering](<https://github.com/harshaljanjani/ModelVault/blob/main/Data%20Analysis%20With%20Python/Scikit%20Learn%20Data%20Analysis%20Projects/College%20Students%20Data%20Analysis%20Using%20K%20Means%20Clustering%20(Day%2011).ipynb>)
 
-[E Commerce Customer Data Analysis Using Linear Regression](<https://github.com/harshaljanjani/ModelVault/blob/main/Data%20Analysis%20With%20Python/Scikit-Learn-Data-Analysis/E-Commerce%20Customer%20Data%20Analysis%20Using%20Linear%20Regression%20(Day%2011).ipynb>)
+[E Commerce Customer Data Analysis Using Linear Regression](https://github.com/harshaljanjani/ModelVault/blob/main/Data%20Analysis%20With%20Python/Scikit%20Learn%20Data%20Analysis%20Projects/E-Commerce%20Customer%20Data%20Analysis%20Using%20Linear%20Regression%20(Day%2011).ipynb)
 
 [Fishers Iris Dataset Classification Using Support Vector Machines](<https://github.com/harshaljanjani/ModelVault/blob/main/Data%20Analysis%20With%20Python/Scikit%20Learn%20Data%20Analysis%20Projects/Fisher's%20Iris%20Dataset%20Classification%20Using%20Support%20Vector%20Machines%20(Day%2011).ipynb>)
 
@@ -32,13 +32,13 @@
 
 [Take Home Project Data Analysis Using K-Nearest Neighbors](<https://github.com/harshaljanjani/ModelVault/blob/main/Data%20Analysis%20With%20Python/Scikit%20Learn%20Data%20Analysis%20Projects/Take-Home%20Project%20Data%20Analysis%20Using%20K-Nearest%20Neighbors%20(Day%2011).ipynb>)
 
-[Bank Note Authentication Dataset Analysis Using A DNN](<https://github.com/harshaljanjani/ModelVault/blob/main/ML%20With%20Python/Bank%20Note%20Authentication%20Dataset%20Analysis%20Using%20A%20Deep%20Neural%20Network%20(Day%2012).ipynb>)
+[Bank Note Authentication Dataset Analysis Using A DNN](https://github.com/harshaljanjani/ModelVault/blob/main/Machine%20Learning%20With%20Python/Bank%20Note%20Authentication%20Dataset%20Analysis%20Using%20A%20Deep%20Neural%20Network%20(Day%2012).ipynb)
 
-[K Means And Hidden Markov Models](<https://github.com/harshaljanjani/ModelVault/blob/main/ML%20With%20Python/K%20Means%20And%20Hidden%20Markov%20Models%20(Day%206).ipynb>)
+[K Means And Hidden Markov Models](https://github.com/harshaljanjani/ModelVault/blob/main/Machine%20Learning%20With%20Python/K%20Means%20And%20Hidden%20Markov%20Models%20(Day%206).ipynb)
 
-[Tensorflow Refresher](<https://github.com/harshaljanjani/ModelVault/blob/main/ML%20With%20Python/Tensorflow%20Refresher%20(Day%201).ipynb>)
+[Tensorflow Refresher](https://github.com/harshaljanjani/ModelVault/blob/main/Machine%20Learning%20With%20Python/Tensorflow%20Refresher%20(Day%201).ipynb)
 
-[Titanic Survival Prediction](<https://github.com/harshaljanjani/ModelVault/blob/main/ML%20With%20Python/Titanic%20Survival%20Prediction%20Analysis%20(Day%205).ipynb>)
+[Titanic Survival Prediction](https://github.com/harshaljanjani/ModelVault/blob/main/Machine%20Learning%20With%20Python/Titanic%20Survival%20Prediction%20Analysis%20(Day%205).ipynb)
 
 [Twitter Bots](<https://github.com/harshaljanjani/ModelVault/tree/main/Web%20Scraping%20Projects%20With%20Python/Web%20Scraping/Making%20Twitter%20Bots%20(Day%2012)>)
 
