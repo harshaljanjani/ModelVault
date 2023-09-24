@@ -51,3 +51,9 @@
 [Multi-Dimensional Scaling And Principal Coordinate Analysis In R](<https://github.com/harshaljanjani/ModelVault/blob/main/Statistics%20in%20R/MDS%20And%20PCoA%20(Day%201).R>)
 
 [Reciever Operating Characteristics Graph And Area Under The Curve In R](<https://github.com/harshaljanjani/ModelVault/blob/main/Statistics%20in%20R/ROC%20And%20AUC%20(Day%201).R>)
+
+[State-Wise Crop Prediction Using Random Forest Classification And Real-Time Geolocation](<https://github.com/harshaljanjani/ModelVault/blob/main/Machine%20Learning%20With%20Python/Crop%20Prediction%20Using%20Random%20Forest%20Classifier%20(Day%2015).ipynb>)
+
+[Document Authentication Model (KYC and Aadhar Verification Using A Convolutional Neural Network For Smart India Hackathon)](<https://github.com/harshaljanjani/ModelVault/blob/main/Machine%20Learning%20With%20Python/Smart%20India%20Hackathon%202023%20(SIH)/DocumentationAuthenticationCNN_SIH.ipynb>)
+
+[Product Listing Algorithm In PyTorch (Smart India Hackathon))](<https://github.com/harshaljanjani/ModelVault/blob/main/Machine%20Learning%20With%20Python/Smart%20India%20Hackathon%202023%20(SIH)/ProductListingAlgorithm_SIH.ipynb>)
