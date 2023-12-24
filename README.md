@@ -57,3 +57,7 @@
 [Document Authentication Model (KYC and Aadhar Verification Using A Convolutional Neural Network For Smart India Hackathon)](<https://github.com/harshaljanjani/ModelVault/blob/main/Machine%20Learning%20With%20Python/Smart%20India%20Hackathon%202023%20(SIH)/DocumentationAuthenticationCNN_SIH.ipynb>)
 
 [Product Listing Algorithm In PyTorch (Smart India Hackathon))](<https://github.com/harshaljanjani/ModelVault/blob/main/Machine%20Learning%20With%20Python/Smart%20India%20Hackathon%202023%20(SIH)/ProductListingAlgorithm_SIH.ipynb>)
+
+[LLM Internship Project: Generating Customized Multi-Class Classification Reports For Various Models](https://github.com/harshaljanjani/ModelVault/blob/main/Machine%20Learning%20With%20Python/Generating%20Customized%20Multi-Class%20Classification%20Reports%20For%20Various%20Models%20(Day%2015).ipynb)
+
+[LLM Internship Project: Customizing Insights For Different Data Visualization Techniques](https://github.com/harshaljanjani/ModelVault/blob/main/Machine%20Learning%20With%20Python/Customizing%20Insights%20For%20Different%20Data%20Visualization%20Techniques%20(Day%2015).ipynb)
